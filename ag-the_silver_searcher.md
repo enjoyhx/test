@@ -6,7 +6,7 @@ The Silver Searcher is a tool for searching code. It started off as a clone of A
 
 源代码：https://github.com/ggreer/the_silver_searcher
 
-看到有用arch的同事用ag用的很爽，而我还在使用grep和find...所以在CentOS上也折腾装了下。[separator]
+看到有用arch的同事用ag用的很爽，而我还在使用grep和find...所以在CentOS上也折腾装了下。
 
 **安装**
 直接用yum install the_silver_searcher是没有的。
