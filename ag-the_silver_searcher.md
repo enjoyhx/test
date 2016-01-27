@@ -51,3 +51,5 @@ ag 'hx' /www/t086.com
 
 更多
 -h 看帮助吧
+
+原文：http://www.9enjoy.com/ag-the_silver_searcher/
